@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nomad_movie_app_clone/static/css/main.bc182c65.css",
+    "main.js": "/nomad_movie_app_clone/static/js/main.7ff743e7.js",
+    "index.html": "/nomad_movie_app_clone/index.html",
+    "main.bc182c65.css.map": "/nomad_movie_app_clone/static/css/main.bc182c65.css.map",
+    "main.7ff743e7.js.map": "/nomad_movie_app_clone/static/js/main.7ff743e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc182c65.css",
+    "static/js/main.7ff743e7.js"
+  ]
+}
